@@ -1,5 +1,47 @@
+### About me
 
-### I'm Oscar Granada
+```bash
+$ whoami
+#> Oscar Granada
+$ working-on
+#> Gorilla Logic
+```
+
+## Extra information
+```json
+{
+  "OSs": [
+    "Linux",
+    "MacOSX",
+    "Windows",
+    "Android"
+  ],
+  "Languages": [
+    "Javascript",
+    "Typescript",
+    "Python",
+    "Java",
+    "C",
+    "Scheme"
+  ],
+  "Other-Languages": [
+    "HTML",
+    "CSS",
+    "LESS",
+    "LaTeX"
+  ],
+  "Tools": [
+    "Vue.js",
+    "Angular",
+    "Express",
+    "Gulp"
+  ],
+  "Databases": [
+    "MongoDB",
+    "PostgreSQL"
+  ]
+}
+```
 
 <!--
 **ogranada/ogranada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
