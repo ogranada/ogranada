@@ -1,8 +1,3 @@
-<style>
-  body {
-    background-color: #4b5d67;
-  }
-</style>
 
 ### I'm Oscar Granada
 
