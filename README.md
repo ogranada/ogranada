@@ -1,4 +1,10 @@
-### Hi there 👋
+<style>
+  body {
+    background-color: #4b5d67;
+  }
+</style>
+
+### I'm Oscar Granada
 
 <!--
 **ogranada/ogranada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
