@@ -1,3 +1,5 @@
+![Trophy](https://github-profile-trophy.vercel.app/?username=ogranada&theme=onedark)
+
 ### About me
 
 ```bash
